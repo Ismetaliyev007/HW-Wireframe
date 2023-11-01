@@ -15,6 +15,18 @@ header, nav, section, aside, footer {
     margin: 10px;
     text-align: center;
 }
-nav {
+section {
+    display: block;
+    float: left;
+    width: 495px;
+    height: 267px;
+    overflow: hidden;
+  }
+  aside {
+    display: block;
+    float: right;
+    width: 40%;
+    height: 267px;
+    overflow: hidden;
+  }
     
-}
